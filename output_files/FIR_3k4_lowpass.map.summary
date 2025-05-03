@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Jul 06 18:49:21 2023
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : FIR_3k4_lowpass
+Top-level Entity Name : FIR_3k4_lowpass
+Family : Cyclone IV E
+Total logic elements : 452
+    Total combinational functions : 323
+    Dedicated logic registers : 407
+Total registers : 407
+Total pins : 20
+Total virtual pins : 0
+Total memory bits : 49,840
+Embedded Multiplier 9-bit elements : 9
+Total PLLs : 1
